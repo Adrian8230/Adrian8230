@@ -2,7 +2,7 @@
 <br>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/adrian-leal-castaño" target="blank">
+<a href="https://www.linkedin.com/in/adrian-leal-castaño-4074122b7/" target="blank">
   <img align="center" src="https://img.shields.io/badge/Adrián Leal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
   &nbsp;&nbsp;&nbsp;  
