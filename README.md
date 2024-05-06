@@ -6,11 +6,9 @@
   <a href="" target="blank">
     <img align="center" src="https://img.shields.io/badge/Adrián Leal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;&nbsp;&nbsp;  
   <a href="mailto:alealcastanio@gmail.com" target="blank">
     <img align="center" src="https://img.shields.io/badge/alealcastanio@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;&nbsp;       
+  </a> 
 </p>
 
 <br>
